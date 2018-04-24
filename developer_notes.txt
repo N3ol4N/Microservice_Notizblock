@@ -1,0 +1,17 @@
+#startet den dev node server:
+npm run dev
+
+#startet die mongo datenbank:
+mongod --dbpath ./database/
+
+die pfade für den datenbankzugriff lauten:
+
+GET :   microservice-mongo:8000/notes/all    ----> liefert alle Einträge in der Datenbank
+GET :   microservice-mongo:8000/notes/:id    ----> liefert den Eintrag mit der id die anstatt :id eingesetzt wird
+POST :  microservice-mongo:8000/notes        ----> schreibt die Eingabe(den Body) in die Datenbank
+PUT :   microservice-mongo:8000/notes/:id    ----> überschreibt den DB-Eintrag mit der :id mit dem gesendeten Body
+DELETE: microservice-mongo:8000/notes/all    ----> löscht den Eintrag mit der :id
+
+
+#startet komplette dockerisierte anwendung
+docker-compose up
