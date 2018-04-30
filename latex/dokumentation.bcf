@@ -2096,10 +2096,6 @@
     <bcf:datasource type="file" datatype="bibtex">bibliographie.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">fsf:2007</bcf:citekey>
-    <bcf:citekey order="2">baumgartner:2002</bcf:citekey>
-    <bcf:citekey order="3">dreyfus:1980</bcf:citekey>
-    <bcf:citekey order="4">mustermann:2012</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nty/global/" type="entry" sortscheme="nty" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
