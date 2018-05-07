@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.12.15)  30 APR 2018 16:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.12.15)  7 MAY 2018 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1661,7 +1661,7 @@ File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 \openout7 = `dokumentation.glo'.
 
 Package glossaries Info: Writing glossary file dokumentation.glo on input line 
-16.
+17.
 
 (./ads/glossary.tex)
 Package csquotes Info: Checking for multilingual support...
@@ -1686,35 +1686,35 @@ File: english.lbx 2016/05/14 v3.4 biblatex localization (PK/JW/AB)
 (./dokumentation.aux)
 \openout1 = `dokumentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 20.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Package nag Info: pgf.sty is broken: disabling dollar check on input line 19.
+Package nag Info: pgf.sty is broken: disabling dollar check on input line 20.
 Package nag Info: Command \frontmatter not defined, skipping amendment on input
- line 19.
+ line 20.
 Package nag Info: Command \mainmatter not defined, skipping amendment on input 
-line 19.
+line 20.
 Package nag Info: Command \backmatter not defined, skipping amendment on input 
-line 19.
+line 20.
 Package nag Info: Command \RaggedLeft not defined, skipping amendment on input 
-line 19.
+line 20.
 Package nag Info: Command \RaggedRight not defined, skipping amendment on input
- line 19.
+ line 20.
 
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1749,7 +1749,7 @@ Package nag Info: Command \RaggedRight not defined, skipping amendment on input
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 19.
+LaTeX Info: Redefining \microtypecontext on input line 20.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1801,7 +1801,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 ))
 ABD: EveryShipout initializing macros
 \c@lstlisting=\count389
-Package hyperref Info: Link coloring ON on input line 19.
+Package hyperref Info: Link coloring ON on input line 20.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1811,9 +1811,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count390
 )
-LaTeX Info: Redefining \ref on input line 19.
-LaTeX Info: Redefining \pageref on input line 19.
-LaTeX Info: Redefining \nameref on input line 19.
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Data encoding 'utf8' specified.
 (biblatex)             No need to reencode data.
@@ -1823,12 +1823,12 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'dokumentation.bbl' not found.
 
 No file dokumentation.bbl.
-Package biblatex Info: Reference section=0 on input line 19.
-Package biblatex Info: Reference segment=0 on input line 19.
+Package biblatex Info: Reference section=0 on input line 20.
+Package biblatex Info: Reference segment=0 on input line 20.
 Package nag Info: Command \caption@xlabel not defined, skipping amendment on in
-put line 19.
+put line 20.
 Package nag Info: Command \hc@caption not defined, skipping amendment on input 
-line 19.
+line 20.
 (./ads/deckblatt.tex <images/dhbw.png, id=7, 710.655pt x 299.1175pt>
 File: images/dhbw.png Graphic file (type png)
 
@@ -1850,8 +1850,8 @@ Package babel Info: Redefining ngerman shorthand "~
 
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
-s/dhbw.png>]) (./ads/sperrvermerk.tex
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 5.
+s/dhbw.png>])
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 59.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1860,120 +1860,22 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `lmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 17.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omslmr.fd
-File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 17.
-
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 17.
-)
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 31.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 31.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 31.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 31.
- [1]
-(./ads/erklaerung.tex)
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 35.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 35.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 35.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 35.
- [2] (./ads/abstract.tex
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 37.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Package microtype Info: Loading generic settings for font family
-(microtype)             `lmtt' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 37.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 37.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 37.
-
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 37.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 37.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 37.
-
-Overfull \hbox (14.37169pt too wide) in paragraph at lines 37--37
-\T1/lmr/m/n/12 (-20) Abstract nor-ma-ler-wei-se auf Eng-lisch. Sie-he: [][]$\T1
-/lmtt/m/n/12 http : / / www . dhbw . de / fileadmin / user / public /
- []
-
-
-Overfull \hbox (34.43356pt too wide) in paragraph at lines 37--37
-\T1/lmtt/m/n/12 Dokumente / Portal / Richtlinien _ Praxismodule _ Studien _ und
- _ Bachelorarbeiten _ JG2011ff .
- []
-
-
-Overfull \hbox (46.0634pt too wide) in paragraph at lines 37--37
-\T1/lmr/m/n/12 (-20) Quelle: [][]$\T1/lmtt/m/n/12 http : / / www . ib . dhbw-[]
-mannheim . de / fileadmin / ms / bwl-[]ib / Downloads _ alt / Leitfaden _
- []
-
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 37.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 37.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 37.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 37.
-[3
-
-
-])
-Package tocbasic Info: character protrusion at toc deactivated on input line 58
+Package tocbasic Info: character protrusion at toc deactivated on input line 59
 .
- (./dokumentation.toc
-Overfull \hbox (3.22041pt too wide) detected at line 11
- [][][]\T1/lmss/bx/n/12 VIII[][]
- []
 
-)
+(./dokumentation.toc)
 \tf@toc=\write8
 \openout8 = `dokumentation.toc'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 60.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 60.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 60.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 59.
- [4
+(babel)             in language  on input line 60.
+ [1
 
 ] (./ads/acronyms.tex
 chapter without number
@@ -1998,97 +1900,15 @@ Class scrreprt Warning: \float@addtolists detected!
 
 )
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 69.
- [5
+(babel)             in language  on input line 80.
+ [2
 
-
-
-
-]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 70.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 70.
-Package tocbasic Info: character protrusion at lof deactivated on input line 70
-.
- (./dokumentation.lof)
-\tf@lof=\write9
-\openout9 = `dokumentation.lof'.
-
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 73.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 73.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 73.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 73.
- [6
-
-
-
-]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 74.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 74.
-Package tocbasic Info: character protrusion at lot deactivated on input line 74
-.
- (./dokumentation.lot)
-\tf@lot=\write10
-\openout10 = `dokumentation.lot'.
-
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 77.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 77.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 77.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 77.
- [7
-
-
-
-]
-
-Class scrreprt Warning: \float@listhead detected!
-(scrreprt)              Implementation of \float@listhead became
-(scrreprt)              deprecated in KOMA-Script v3.01 2008/11/14 and
-(scrreprt)              has been replaced by several more flexible
-(scrreprt)              features of package `tocbasic`.
-(scrreprt)              Maybe implementation of \float@listhead will
-(scrreprt)              be removed from KOMA-Script soon.
-(scrreprt)              Loading of package `scrhack' may help to
-(scrreprt)              avoid this warning, if you are using a
-(scrreprt)              a package that still implements the
-(scrreprt)              deprecated \float@listhead interface  on input line 78.
-
-
-chapter without number
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 78.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 78.
-(./dokumentation.lol)
-\tf@lol=\write11
-\openout11 = `dokumentation.lol'.
-
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 79.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 79.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 79.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 79.
- [8
 
 
 
@@ -2122,142 +1942,174 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 3.
+) (./content/03kapitel.tex
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 30.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 30.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 36.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 36.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 36.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 36.
-[2
+(babel)             in language  on input line 3.
+ [2
 
 ]
+chapter 3.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 39.
-Package acronym Info: Label `acro:AGPL' newly defined as it shall be overridden
+(babel)             in language  on input line 3.
+) (./content/04kapitel.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 3.
+ [3
 
-although it is yet undefined on input line 43.
+]
+chapter 4.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 3.
+<images/schaubild.png, id=54, 823.075pt x 512.91624pt>
+File: images/schaubild.png Graphic file (type png)
+
+<use images/schaubild.png>
+Package pdftex.def Info: images/schaubild.png used on input line 9.
+(pdftex.def)             Requested size: 292.19995pt x 182.09488pt.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 11.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \vbox (7.89444pt too high) has occurred while \output is active []
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 11.
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 96.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 96.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 96.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 96.
-
-[3]
-
-LaTeX Warning: Empty bibliography on input line 100.
-
-No file dokumentation.gls.
-
-Overfull \vbox (7.89444pt too high) has occurred while \output is active []
-
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 106.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 106.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 106.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 106.
-
-[4
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 11.
 
 
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 11.
 
-] (./ads/appendix.tex
-chapter without number
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 11.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 11.
+
+Overfull \hbox (30.65878pt too wide) in paragraph at lines 16--17
+[][]\T1/lmr/m/n/12 (-20) Hierbei ist das docker-compose.yaml
+ []
+
+) (./content/05kapitel.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 17.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 17.
+(babel)             in language  on input line 3.
+ [4
+
+ <./images/schaubild.png>]
+Overfull \vbox (7.89444pt too high) has occurred while \output is active []
+
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 17.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 17.
-[5
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 3.
 
+[5]
+chapter 5.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 3.
+) (./content/06kapitel.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 3.
+ [6
 
-])
+]
+chapter 6.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 3.
+)
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 97.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 97.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 97.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 97.
+ [7
+
+]
+
+Package glossaries Warning: No \printglossary or \printglossaries found.
+(Remove \makeglossaries if you don't want any glossaries.)
+This document will not have a glossary.
+
 No complaints by nag.
-
-Overfull \vbox (7.89444pt too high) has occurred while \output is active []
-
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 110.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 110.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 110.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 110.
-
-[6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
- (./dokumentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 110.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                dokumentation
-(biblatex)                and rerun LaTeX afterwards.
-
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
+(./dokumentation.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 111.
 Package logreq Info: Writing requests to 'dokumentation.run.xml'.
 \openout1 = `dokumentation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36197 strings out of 493014
- 644359 string characters out of 6133350
- 1366732 words of memory out of 5000000
- 38782 multiletter control sequences out of 15000+600000
- 72316 words of font info for 79 fonts, out of 8000000 for 9000
+ 35616 strings out of 493014
+ 638575 string characters out of 6133350
+ 1309657 words of memory out of 5000000
+ 38248 multiletter control sequences out of 15000+600000
+ 57186 words of font info for 75 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
- 72i,10n,80p,8511b,1687s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{figure.1.1} has been referenced but does not exis
-t, replaced by a fixed one
+ 72i,10n,80p,8511b,1689s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exi
+st, replaced by a fixed one
 
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/te
-xlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2016
-/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2016/texmf-dis
-t/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
-e1/public/lm/lmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/l
-m/lmr17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr6.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/loca
-l/texlive/2016/texmf-dist/fonts/type1/public/lm/lmri8.pfb></usr/local/texlive/2
-016/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2016/texmf-
-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2016/texmf-dist/fon
-ts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/p
-ublic/lm/lmtt10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/l
-mtt12.pfb>
-Output written on dokumentation.pdf (15 pages, 311325 bytes).
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist
+/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
+1/public/lm/lmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/
+lmro12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmssbx10.p
+fb>
+Output written on dokumentation.pdf (10 pages, 259578 bytes).
 PDF statistics:
- 224 PDF objects out of 1000 (max. 8388607)
- 191 compressed objects within 2 object streams
- 51 named destinations out of 1000 (max. 500000)
- 23642 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 131 PDF objects out of 1000 (max. 8388607)
+ 106 compressed objects within 2 object streams
+ 22 named destinations out of 1000 (max. 500000)
+ 17487 words of extra memory for PDF output out of 20736 (max. 10000000)
 
