@@ -1,0 +1,20 @@
+%!TEX root = ../dokumentation.tex
+
+\chapter{package.json}
+\label{ch:package.json}
+
+Die package.json Datei beinhaltet die Grundlegenden Informationen zur Anwendung. Dazu gehören allgemeine Informationen, eigene Skripte und die Abhängigkeiten der Anwendung von anderen Frameworks und Softwarepaketen
+
+\begin{wrapfigure}{r}{0\textwidth}
+\centering
+\includegraphics[height=.5\textwidth]{Packagejson.png}
+\vspace{4pt}
+\caption{Schaubild\footnotemark}
+\label{fig:blueant}
+\end{wrapfigure}
+
+Wie in der Abbildung zu sehen beginnt die Datei mit den allgemeinen Informationen über die Anwendung. Dazu gehören der Name der Anwendung, die Version, eine kurze Beschreibung, der Einstiegspunkt der Anwendung, selbstdefinierten Skripten zur Ausführung, die Namen der Entwickler und die Lizenz.
+
+Darauf folgend sind die Dependencies, also die Abhängigkeiten, aufgelistet. Diese beschreiben die verwendeten Frameworks auf die die Anwendung zurückgreifen kann.
+
+Durch den NodePackageManager können diese Abhängigkeiten aufgelöst und in das System importiert werden. Dies geschieht durch den Befehl npm install der auch in der Dockerfile zu finden ist.

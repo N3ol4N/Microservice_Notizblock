@@ -4,6 +4,14 @@
 \label{ch:Dockerfile}
 Das Dockerfile legt das Image für die später folgenden Anwendungscontainer fest. Der DockercomposeBereich "microservice-web" und der dortige build . Befehl referenziert auf dieses Dockerfile.
 
+\begin{wrapfigure}{r}{0\textwidth}
+\centering
+\includegraphics[height=.6\textwidth]{Dockerfile.png}
+\vspace{3pt}
+\caption{Schaubild\footnotemark}
+\label{fig:blueant}
+\end{wrapfigure}
+
 Zeile 1: FROM node:alpine legt das Betriebssystem des Containers fest. Hier wird auf eine Alpine-Maschine mit vorinstalliertem Node.js zurückgegriffen. Dieses System ist sehr beliebt für einfache Anwendungen und wird häufig für kleine Projekte verwendet, da es sehr geradlinig aufgebaut ist und wenig Ressourcen benötigt.
 
 Zeile 3: RUN beschreibt eine Eingabe in die virtuelle Kommandozeile. apk add --update bash installiert die aktuelle Version von bash auf dem containerisierten Betriebssystem.
