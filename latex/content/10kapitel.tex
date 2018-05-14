@@ -1,0 +1,15 @@
+%!TEX root = ../dokumentation.tex
+
+\chapter{Zusammenfassung}
+\label{ch:Zusammenfassung}
+
+Durch die vorliegende Anwendung ist es möglich eine Notizblock-Anwendung innerhalb von Dockercontainern auf jedem Rechner zu implementieren der Docker unterstützt.
+Durch Docker-Compose muss dazu nur ein einziger Befehl ausgeführt werden.
+
+Wahlweise ist es auch möglich die Anwendung als eigenständige Datenbank-Schnittstelle zu verwenden, indem man die API's, die im vorangegangenen Kapitel "Routes" beschrieben werden, direkt anspricht
+
+Node.js ermöglicht, durch eine relativ überschaubare Codebasis, einen Server aufzusetzen.
+Mongo-DB bietet als dokumentenzentrische Datenbank eine ideale Grundlage für das Speichern von Notizen.
+Durch Docker bzw Dockercompose lässt sich die komplette Anwendung mit wenig Aufwand installieren und einsatzbereit machen.
+
+Alles in allem lässt sich festhalten, dass die Kombination aus Node.js-Server, Mongo-DB und Docker sehr gut geeignet ist um schnell eine funktionierende Anwendung zu implementieren und durch die Möglichkeit Ports und Routes auch nach außenhin frei zugänglich zu machen, lässt sich diese Anwendung dann auch in jede beliebige Microservice-Architektur einbinden. 
