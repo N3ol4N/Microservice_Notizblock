@@ -1,5 +1,6 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\babel@toc {ngerman}{}
+\defcounter {refsection}{0}\relax 
+\select@language {ngerman}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\nonumberline Abk\IeC {\"u}rzungsverzeichnis}{II}{chapter*.2}
 \defcounter {refsection}{0}\relax 
@@ -11,9 +12,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Docker Compose}{4}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Dockerfile}{6}{chapter.5}
+\contentsline {chapter}{\numberline {5}Dockerfile}{5}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Ordnerstruktur}{7}{chapter.6}
+\contentsline {chapter}{\numberline {6}Ordnerstruktur}{6}{chapter.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {7}package.json}{8}{chapter.7}
 \defcounter {refsection}{0}\relax 

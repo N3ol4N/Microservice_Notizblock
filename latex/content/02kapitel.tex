@@ -2,24 +2,24 @@
 
 \chapter{Anforderungen}
 \label{ch:Anforderungen}
+Da im Zuge dieses Projektes eine Microservice-Anwendung erstellt werden soll, muss zuallererst festgelegt werden welche Anforderungen an das Projekt gestellt werden.
 
-Da im Zuge dieses Projektes eine Microservice-Anwendung erstellt werden soll, muss zu allererst festgelegt werden welche Anforderungen an das Projekt gestellt werden.
+Diese Anwendung hat zum Ziel Notizen nachhaltig in eine dokumentenorientierte Datenbank abzuspeichern. Die Notizen sollen eingespeichert und wieder abgerufen werden können. Weiterhin sollen sie bearbeitet und gelöscht werden können.
 
-Diese Anwendung hat zum Ziel Notizen nachhaltig in eine dokumentenzentrierte Datenbank abzuspeichern. Die Notizen sollen eingespeichert und wieder abgerufen werden können. Weiterhin sollen sie bearbeitet und gelöscht werden können.
-
-Die Anwendung soll durch Ansprachen von API's, sowie durch eine Benutzeroberfläche betrieben werden.
+Die Anwendung soll durch das Ansprechen von API's, sowie durch eine Benutzeroberfläche zur Verwaltung betrieben werden.
 
 Für den Aufbau der Anwendung soll ein Microservice-Architektur umgesetzt werden.
-Die Anwendung soll in Dockercontainern betrieben werden; gleiches gilt für die Datenbank. Außerdem sollen die Container durch Docker-Compose orchestriert werden.
+Die Anwendung soll in Dockercontainern betrieben werden, was ebenfalls für die Datenbank gilt. Des Weiteren sollen die Container durch Docker-Compose orchestriert werden.
 
-Zur Verdeutlichung dient die folgende Abbildung
-
-\begin{wrapfigure}{r}{0\textwidth}
+Zur Verdeutlichung dient \autoref{fig:Darstellung der Architektur}.
+\begin{center}
+\begin{figure}[h!]
 \centering
-\includegraphics[height=.5\textwidth]{Schaubild.png}
-\vspace{3pt}
-\caption{Schaubild\footnotemark}
-\label{fig:blueant}
-\end{wrapfigure}
-
+\includegraphics[trim=1cm 1cm 1cm 1cm,height=.5\textwidth]{Schaubild.png}
+\vspace{1pt}
+\caption{Darstellung der Architektur}
+\label{fig:Darstellung der Architektur}
+\end{figure}
+\end{center}
 Zur konkreten Umsetzung sollen Node.js als Backend-Programmiersprache und eine Mongo-Datenbank für die Datenhaltung zum Einsatz kommen.
+
